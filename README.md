@@ -1,4 +1,4 @@
-[![](https://github.com/rwwagner90/rwwagner90/blob/master/11@3x.png)](https://shipshape.io/)
+[![](https://github.com/rwwagner90/rwwagner90/blob/master/Ship%20Shape%20Summer%20T%20Neon.png)](https://shipshape.io/)
 
 <!--
 **rwwagner90/rwwagner90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
